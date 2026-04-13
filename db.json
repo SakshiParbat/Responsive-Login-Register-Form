@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "Sakshi Parbat",
+      "email": "sakshi.job02@gmail.com",
+      "password": "Sakshi@02",
+      "confirmPassword": "Sakshi@02",
+      "id": "Oaevqgpy330"
+    },
+    {
+      "username": "yash",
+      "email": "yash@gmail.com",
+      "password": "yash@1234",
+      "confirmPassword": "yash@1234",
+      "id": "E_AmtDuewgw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
